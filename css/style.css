@@ -57,8 +57,6 @@ main {
   color: hsl(360, 100%, 100%);
   background: hsl(300, 69%, 71%);
 }
-.share {
-}
 .share-item {
   display: inline-block;
   box-sizing: border-box;
